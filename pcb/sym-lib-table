@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB_A_Plug")(type "KiCad")(uri "${KIPRJMOD}/imports/USB_A_Plug/USB_A_Plug.kicad_sym")(options "")(descr ""))
+)
