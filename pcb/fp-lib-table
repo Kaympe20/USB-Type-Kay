@@ -1,4 +1,10 @@
 (fp_lib_table
   (version 7)
   (lib (name "USB_A_Plug")(type "KiCad")(uri "${KIPRJMOD}/imports/USB_A_Plug/USB_A_Plug.pretty")(options "")(descr ""))
+  (lib (name "USB_A_Socket")(type "KiCad")(uri "${KIPRJMOD}/imports/USB_A_Socket/USB_A_Socket.pretty")(options "")(descr ""))
+  (lib (name "CoreChips_SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/imports/CoreChips_SL2.1A/CoreChips_SL2.1A.pretty")(options "")(descr ""))
+  (lib (name "Diode")(type "KiCad")(uri "${KIPRJMOD}/imports/Diode/NSR0320MW2T1G.pretty")(options "")(descr ""))
+  (lib (name "Decoupling_Capacitor")(type "KiCad")(uri "${KIPRJMOD}/imports/Decoupling_Capacitor/CL10A106KP8NNNC.pretty")(options "")(descr ""))
+  (lib (name "Resistor")(type "KiCad")(uri "${KIPRJMOD}/imports/Resistor/0402WGF5101TCE.pretty")(options "")(descr ""))
+  (lib (name "USB_C_Socket")(type "KiCad")(uri "${KIPRJMOD}/imports/USB_C_Socket/U262-161N-4BVC11.pretty")(options "")(descr ""))
 )
