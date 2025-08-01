@@ -5,6 +5,8 @@ description: "A USB Hub powered with a USB-C Port"
 created_at: "2025-7-31"
 ---
 
+Total Time Spent: 8hr
+
 ## July 31, 2025
 
 I started off looking at [this](https://jams.hackclub.com/batch/usb-hub) jam made by [@msw](https://github.com/maxwofford)
@@ -21,7 +23,7 @@ I went a little bit further and filled in all of the USB ports, as well as the r
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7477a175ae846890a98b62421d90ded01f50c5cd_image.png)
 
-Time Spent: 1.5hr
+Time Spent: 2hr
 
 ---
 
@@ -54,3 +56,33 @@ It looks a little bland so we should add in some nice customization
 Here's what it looks like in 3D:
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e596435dc2f86b6917198a8cccae4fb1734b63cf_image.png)
+
+Time Spent: 2.5hr
+
+---
+
+I started preparing for case design by adding 4 M2 mounting holes.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a9fa7e47936d558e5935e14c275553d2078ffeb_image.png)
+
+I started with the bottom portion of the case with M1 screws to put it together.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/072612a8c82e712ca99615e6cd9ea72e2d0782a7_image.png)
+
+And then I added the top.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0aedb6c3e48dff1b310c188b9492ac28515eca2a_image.png)
+
+Its wasn't really a looker so I gave it an aesthetic lightning bolt to signify its powered nature.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74f76e911649e7a54ae8e4b81840af0325a7c2eb_image.png)
+
+Here's what it looks like fully assembled
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/604b87673338a7b21b6182beeb60f702be162a40_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/619558a6b68b017900f09a29cdf5f072ca89f575_image.png)
+
+Time Spent: 3hr
+
+---
