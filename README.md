@@ -11,9 +11,9 @@ I made this powered USB Hub because I use a USB Hub at my desk, but not everythi
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ecb1b275bf2d126c89fca113ef9d83c7ca213f39_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/619558a6b68b017900f09a29cdf5f072ca89f575_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a4011d855dae9fafc7319c214f5b4fd01cc329c_image.png)
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/604b87673338a7b21b6182beeb60f702be162a40_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/353e921a5559e8d88bb15dbfdd613e023ebfb967_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b12a386710066e2b467cfb3a0a4c7083e16862b2_image.png)
 
