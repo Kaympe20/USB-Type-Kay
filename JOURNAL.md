@@ -86,3 +86,13 @@ Here's what it looks like fully assembled
 Time Spent: 3hr
 
 ---
+
+## August 4, 2025
+
+I fully connected the 5V
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4ba8c39d98d53a0d545dc0458cd8ef63546a46f5_image.png)
+
+Time Spent: 15min
+
+---
